@@ -15,3 +15,5 @@ Robin Dahl: RobinDahl
 Karl Erik Søtvik - JiffyHACC
 Inge Ellingsen Dehli : IngeED
 Sverre B. Stensby : Beedle
+Albert Gutowski	: algoblin
+Joakim Stien	: pimms
