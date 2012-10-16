@@ -1,7 +1,7 @@
 Simon McCallum
 Johannes Hoveland : johhov
 Thomas Enge Lund
-Mimozë Lladrovci
+Mimozï¿½ Lladrovci
 Arlinda Rushiti :Arlinda
 Alexander Walter :CrazzyLarry
 Aleksander Olsen  : D3stny
@@ -21,3 +21,4 @@ Ingeborg Haugli Nielsen : inbo
 Leif Ivar HalÃ¥s : Leivar
 Asbjørn Løvlie Meyer: Asme
 Eskil Andre Skotvold : EskilCare
+Anders Gjelsvik: DerMinze
