@@ -26,3 +26,4 @@ Marius Rødland : Marhaak
 Jonathan Ness: spoki0
 Harry Nystad: HarNys
 
+Thomas Sigurdsen: thomassigurdsen
