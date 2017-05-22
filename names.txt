@@ -1,29 +1,9 @@
-Simon McCallum : SimonMcCallum
-Johannes Hoveland : johhov
-Thomas Enge Lund
-Mimozï¿½ Lladrovci
-Arlinda Rushiti :Arlinda
-Alexander Walter :CrazzyLarry
-Aleksander Olsen  : D3stny
-Albert Gutowski: algoblin
-Jan Greger Hemb: JGH153
-Marius RÃ¸dland : Marhaak
-Sindre Grannes BÃ¸rresen : treigzak
-Michael
-Steffen Syversen : s7zen7
-Robin Dahl: RobinDahl
-Karl Erik SÃ¸tvik - JiffyHACC
-Inge Ellingsen Dehli : IngeED
-Sverre B. Stensby : Beedle
-Albert Gutowski	: algoblin
-Joakim Stien	: pimms
-Ingeborg Haugli Nielsen : inbo
-Leif Ivar HalÃ¥s : Leivar
-Asbjørn Løvlie Meyer: Asme
-Eskil Andre Skotvold : EskilCare
-Anders Gjelsvik: DerMinze
-Marius Rødland : Marhaak
-Jonathan Ness: spoki0
-Durim Jusaj
-Harry Nystad: HarNys
-Thomas Sigurdsen: thomassigurdsen
+# Exam test
+
+The example of bullets
+  * Simon McCallum
+  * your name here
+  
+OR numbers
+  1. The first line
+  1. the second line
